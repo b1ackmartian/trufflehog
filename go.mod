@@ -13,7 +13,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.4
 	github.com/aws/aws-sdk-go-v2/credentials v1.12.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.16.4
-  github.com/bill-rich/go-syslog v0.0.0-20220413021637-49edb52a574c
+	github.com/bill-rich/go-syslog v0.0.0-20220413021637-49edb52a574c
 	github.com/bitfinexcom/bitfinex-api-go v0.0.0-20210608095005-9e0b26f200fb
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.4
 	github.com/crewjam/rfc5424 v0.1.0
@@ -39,7 +39,7 @@ require (
 	github.com/sergi/go-diff v1.2.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/tailscale/depaware v0.0.0-20210622194025-720c4b409502
-	github.com/xanzy/go-gitlab v0.64.0
+	github.com/xanzy/go-gitlab v0.65.0
 	github.com/zricethezav/gitleaks/v8 v8.5.2
 	golang.org/x/crypto v0.0.0-20211215165025-cf75a172585e
 	golang.org/x/net v0.0.0-20220325170049-de3da57026de
